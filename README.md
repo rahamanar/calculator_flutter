@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+<br/><img src="https://github.com/rahamanar/calculator_flutter/blob/main/Assets/calculator.gif" width="205" height="380">
+
+# Screenshot 
+
+<br/><img src="https://github.com/rahamanar/calculator_flutter/blob/main/Assets/Screenshot1.png" width="205" height="380">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
